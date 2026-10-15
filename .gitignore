@@ -1,0 +1,15 @@
+# Güvenlik ve Ortam Değişkenleri
+.env
+
+# Python ve Derleme Dosyaları
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Veritabanı ve Çıktılar
+arac_piyasasi.db
+*.csv
+dist/
+build/
+*.spec
